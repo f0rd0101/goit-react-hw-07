@@ -1,0 +1,12 @@
+.person_item{
+    display: flex;
+  justify-content: space-between; /* Размещает текст слева, кнопку справа */
+  align-items: center; /* Выравнивает элементы по центру */
+}
+ul{
+   padding: 0;
+}
+.contact_list_div{
+  display: flex;
+    justify-content: center;
+}
